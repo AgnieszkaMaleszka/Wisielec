@@ -8,6 +8,14 @@ Gra sieciowa z wykorzystaniem **BSD sockets**, w której gracze rywalizują w od
 
 ---
 
+## 🖼️ Zrzuty ekranu
+
+<img width="788" alt="Wisielec2" src="https://github.com/user-attachments/assets/335f9732-4c97-4cf9-a85f-1bd81a4ed3ce" />
+
+<img width="786" alt="Wisielec4" src="https://github.com/user-attachments/assets/658f8e26-cc16-4b89-965d-a8a917fe9734" />
+
+---
+
 ## 🔧 Wymagania systemowe
 
 - Kompilator `g++` w wersji **10.x.x**
