@@ -1,8 +1,8 @@
 # 🎮 Wisielec – sieciowa gra słowna
 
 **Autorzy:**  
-📌 Agnieszka Maleszka
-📌 Bartosz Kozłowski 
+- 📌 Agnieszka Maleszka
+- 📌 Bartosz Kozłowski 
 
 Gra sieciowa z wykorzystaniem **BSD sockets**, w której gracze rywalizują w odgadywaniu haseł, zdobywając punkty i premie za szybkość. Gra wspiera wielu graczy, dynamiczne dołączanie do rozgrywki, opóźnienia sieciowe oraz rozłączenia.
 
